@@ -4,3 +4,10 @@ PORTB nin 8 ve PORTA nın 4 tane pinine bağlı toplam 12 adet LED kullanarak,
 PORTA nın 4 ve 5 nolu pinlerindeki iki tane buton ile ileri mi 
 yoksa geri mi sayma yapılacağı seçilecektir. 
 Sayma işlemi göz ile izlenebilir yavaşlıkta olacaktır. 
+
+-----------------------------------------------
+
+https://i.hizliresim.com/yGapvN.png
+
+
+-----------------------------------------------
