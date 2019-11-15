@@ -1,0 +1,8 @@
+Warning[205] C:\MIKROISLEMCILER\ODEVLER\1.DENEY_ODEVI\MPLAB\DENEME.ASM 3 : Found directive in column 1. (__CONFIG)
+Warning[207] C:\MIKROISLEMCILER\ODEVLER\1.DENEY_ODEVI\MPLAB\DENEME.ASM 4 : Found label after column 1. (GECIKME1)
+Message[302] C:\MIKROISLEMCILER\ODEVLER\1.DENEY_ODEVI\MPLAB\DENEME.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\MIKROISLEMCILER\ODEVLER\1.DENEY_ODEVI\MPLAB\DENEME.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\MIKROISLEMCILER\ODEVLER\1.DENEY_ODEVI\MPLAB\DENEME.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\MIKROISLEMCILER\ODEVLER\1.DENEY_ODEVI\MPLAB\DENEME.ASM 80 : Using default destination of 1 (file).
+Warning[202] C:\MIKROISLEMCILER\ODEVLER\1.DENEY_ODEVI\MPLAB\DENEME.ASM 91 : Argument out of range.  Least significant bits used.
+Warning[205] C:\MIKROISLEMCILER\ODEVLER\1.DENEY_ODEVI\MPLAB\DENEME.ASM 107 : Found directive in column 1. (END)
