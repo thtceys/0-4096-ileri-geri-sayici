@@ -7,7 +7,7 @@ Sayma işlemi göz ile izlenebilir yavaşlıkta olacaktır.
 
 -----------------------------------------------
 
-https://i.hizliresim.com/yGapvN.png
+![proteus çizimi](https://i.hizliresim.com/yGapvN.png)
 
 
 -----------------------------------------------
