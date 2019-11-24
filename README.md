@@ -7,8 +7,5 @@ yoksa geri mi sayma yapılacağı seçilecektir.
 Sayma işlemi göz ile izlenebilir yavaşlıkta olacaktır. 
 
 -----------------------------------------------
-
 ![proteus çizimi](https://i.hizliresim.com/yGapvN.png)
-
-
 -----------------------------------------------
